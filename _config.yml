@@ -1,33 +1,33 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Tao
+subtitle: of Mat
 email: litsos.titus@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+description: A place to organize my thoughts.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: mathewtitus.github.io # the base hostname & protocol for your site
 author: Mathew Titus
-street_address: 
-city: 
-state: OR
-zip_code: 
+# street_address: 
+# city: 
+# state: OR
+# zip_code: 
 country: United States of America
-phone: 
+# phone: 
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
